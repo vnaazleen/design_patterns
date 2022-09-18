@@ -19,7 +19,7 @@ the **SUBJECT** and the subscribers the **OBSERVERS**.
 
 ![Untitled](https://user-images.githubusercontent.com/54474853/190903185-9ca3fb63-95b7-4750-af80-571a979b2f53.png)
 
-# Loose Coupling
+## Loose Coupling
 
 Loosely coupled designs allow us to build flexible OO systems that can handle change because they minimize the interdependency between objects.
 
@@ -71,3 +71,8 @@ current conditions, weather stats, and a forecast.
 ### Solution -- Class Diagram
 
 ![Untitled](https://user-images.githubusercontent.com/54474853/190904615-d91e4099-90e9-4f07-9b41-bf97e42d6fae.png)
+
+### Solution -- Implementation
+
+![Untitled](https://user-images.githubusercontent.com/54474853/190904822-a5c60c5a-1ef2-43b4-9991-95e5a51b06c3.png)
+
