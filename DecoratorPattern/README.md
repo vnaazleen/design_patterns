@@ -18,3 +18,6 @@ decorates to do the rest of the job.
 * Objects can be decorated at any time, so we can decorate objects dynamically at runtime
 with as many decorators as we like.
 
+## Structure
+
+![Untitled](https://user-images.githubusercontent.com/54474853/191049933-f01ecd0f-e076-462e-aebf-4c03ba574dc0.png)
