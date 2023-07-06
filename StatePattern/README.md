@@ -23,3 +23,8 @@ State machine to Code
 3. Finally, get rid of all conditional code and instead delegate to the state class to do the work.
 
 ![](https://github.com/vnaazleen/design_patterns/blob/main/StatePattern/example_class_diagram.png)
+
+
+## Additional Requirements in Example 
+
+10% of the time, when the crank is turned, the customer gets two gumballs instead of one.

@@ -9,7 +9,7 @@ public class SoldState implements State {
 
     @Override
     public void insertQuarter() {
-        System.out.println("Please wait, we're already giving you a gumbalr");
+        System.out.println("Please wait, we're already giving you a gumball");
     }
 
     @Override
