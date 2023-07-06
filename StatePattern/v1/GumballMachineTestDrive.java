@@ -1,4 +1,4 @@
-package StatePatten.v1;
+package StatePattern.v1;
 
 public class GumballMachineTestDrive {
  public static void main(String[] args) {
