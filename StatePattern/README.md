@@ -1,8 +1,13 @@
 # State Pattern
 
-```
+
 The State Pattern allows an object to alter its behaviour when its internal state changes. The object will appear to change its class.
-```
+
+![](https://github.com/vnaazleen/design_patterns/blob/main/StatePattern/state_pattern_class_diagram.png)
+
+### Example (State machine)
+
+![](https://github.com/vnaazleen/design_patterns/blob/main/StatePattern/example_state_machine.png)
 
 
 ## State machines 101 (v1)
@@ -17,3 +22,4 @@ State machine to Code
 2. Implement a State class for every state of the machine. These classes will be responsible for the behaviour of the machine when it is in the corresponding state.
 3. Finally, get rid of all conditional code and instead delegate to the state class to do the work.
 
+![](https://github.com/vnaazleen/design_patterns/blob/main/StatePattern/example_class_diagram.png)
