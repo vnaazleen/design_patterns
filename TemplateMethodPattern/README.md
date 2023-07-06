@@ -27,3 +27,7 @@ Design Flaws:
 - Define child specific methods in child class
 
 **The Template Method defines the steps of an algorithm and allows subclasses to provide the implementation for one or more steps.**
+
+
+## Hooks in Template method
+A hook is a method that is declared in the abstract class, but only given an empty or default implementation.
